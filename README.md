@@ -32,7 +32,7 @@ This project serves as a Proof of Concept (PoC) to demonstrate the potential of 
 1. Clone the repository:
    ```bash
    git clone https://github.com/SuyodhanJ6/PDFChat-Gemini-LangChain.git
-   cd gemini-pdf-chat
+   cd PDFChat-Gemini-LangChain
    ```
 
 2. Create a Conda environment:
